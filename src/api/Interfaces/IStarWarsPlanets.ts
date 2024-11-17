@@ -20,3 +20,4 @@ export interface PlanetsResponse {
     previous?: string; 
     results: Planets[]; 
 }
+
