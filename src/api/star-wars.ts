@@ -7,3 +7,10 @@
 // die erste person in der antwort ist "Luke Skywalker"
 // sein Raumschiff heißt "X-wing", "Imperial shuttle"
 // "hair_color": "auburn, white", eye color: blue-gray
+// bobba fett 
+// the empire strikes back 
+// return of the jedi 
+// attack of the clones
+// https://swapi.dev/api/people/?search=Leia
+// height 150
+// alderaan
